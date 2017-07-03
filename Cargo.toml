@@ -1,0 +1,7 @@
+[package]
+authors = ["Nick Fitzgerald <fitzgen@gmail.com>"]
+name = "guarded_array"
+version = "0.1.0"
+
+[dependencies]
+memmap = "0.5.2"
